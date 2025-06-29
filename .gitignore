@@ -1,0 +1,54 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode and other IDEs
+.vscode/
+.idea/
+*.swp
+
+# Pytest, coverage, mypy and other test/debug artifacts
+*.cover
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Logs and reports
+*.log
+
+# Output from tools (pylint, flake8, bandit, radon, etc.)
+pylint-report.txt
+flake8-report.txt
+bandit-report.txt
+radon-report.txt
+
+# Local configs
+*.ini
+*.cfg
+*.toml
+.settings/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+desktop.ini
