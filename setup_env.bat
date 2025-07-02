@@ -7,7 +7,7 @@ echo Entorno virtual activado.
 
 REM Instalar dependencias desde requirements-dev.txt
 echo Instalando dependencias...
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 
 echo Instalación completa. El entorno está listo.
 
